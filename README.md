@@ -20,8 +20,8 @@
   "alias"      : "glaks",
   "role"       : "SWE Intern @ Mresult  |  Final-year B.E. (AI & DS), VTU '26",
   "location"   : "Mangalore, India 🇮🇳",
-  "stack"      : ["Azure OpenAI", "GPT-4o", "Flask", "Python", "React"],
-  "currently"  : "Shipping GPT-4o multi-agent pipelines on Azure ☁️",
+  "stack"      : ["GPT-4o", "Flask", "Python", "scikit-learn", "React"],
+  "currently"  : "Shipping multi-agent AI pipelines 🤖",
   "obsessions" : ["LLM agents", "distributed ML", "blockchain infra", "Fedora ricing"],
   "fun_fact"   : "My terminal has Politoed on it. Non-negotiable. 🐸",
 }
@@ -51,9 +51,6 @@
 
 **── Cloud & Backend ──**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=openai&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
