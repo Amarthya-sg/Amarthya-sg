@@ -52,10 +52,13 @@
 **── Cloud & Backend ──**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=openai&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **── Blockchain ──**
 
@@ -63,12 +66,21 @@
 ![Solidity](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
+**── Data & BI ──**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 **── OS & Tools ──**
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -95,18 +107,17 @@
 ## `$ cat experience.log`
 
 ```
-▶  Jan 2025 – Present
-   Software Engineering Intern · Mresult
-   ├─ GPT-4o multi-agent pipelines (Azure OpenAI)
-   ├─ Azure Functions Python V2 · serverless APIs
-   ├─ Azure Key Vault · Managed Identity · secure cloud infra
-   └─ GDP document validation pipeline (Flask + multi-agent)
+▶  Jan 2026 – Present
+   AI Automation Intern · Mresult
+   ├─ Python automation workflows integrating ML + generative AI APIs
+   ├─ Prompt engineering for automated data processing & reporting
+   └─ Structured insights delivery without manual intervention
 
-▶  Prior
-   AI Intern · Edutainer India
-   ├─ Prompt engineering & LLM workflow design
-   ├─ ML visualization & generative AI projects
-   └─ End-to-end AI assignment delivery
+▶  Feb 2026 – May 2026
+   AI Intern · Edutainer India (PAT Technologies Pvt. Ltd.)
+   ├─ Flask app with Claude + Gemini multi-model fallback routing
+   ├─ Interactive ML visualization tool (scikit-learn · Matplotlib · Seaborn)
+   └─ Multi-model LLM pipeline for automated prompt refinement
 ```
 
 <br/>
@@ -123,6 +134,16 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amarthya-sg&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
+
+<br/>
+
+## `$ cat certs.txt`
+
+```
+✦  Prompt Engineering: Generative AI for Reconnaissance — Infosys Springboard  (Apr 2025)
+✦  Cloud Computing — Acmegrade  (Jan 2024)
+✦  Microsoft Certified: Power BI Data Analyst Associate  [In Progress]
+```
 
 <br/>
 
