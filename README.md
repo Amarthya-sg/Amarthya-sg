@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Amarthya%20S.%20George&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Cloud%20%7C%20ML%20%7C%20Blockchain&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn)](https://github.com/Amarthya-sg)
+# 👾 Amarthya S. George
+
+### `AI & Data Science · Cloud · ML · Blockchain`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+multi-agent+AI+pipelines+☁️;Turning+raw+data+into+real+decisions+📊;99.82%25+IDS+accuracy+—+not+a+typo+🛡️;Fedora+enjoyer+%7C+Terminal+dweller+🐧)](https://git.io/typing-svg)
 
@@ -144,10 +146,6 @@
 
 <br/>
 
-```
-[ status: open to work · actively building · coffee-dependent ]
-```
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer&animation=fadeIn)](https://github.com/Amarthya-sg)
+`[ status: open to work · actively building · coffee-dependent ]`
 
 </div>
