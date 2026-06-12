@@ -1,0 +1,81 @@
+<svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" width="900" height="180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#111827"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58A6FF"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+
+    <!-- grid dot pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#ffffff" opacity="0.06"/>
+    </pattern>
+
+    <!-- glow filter -->
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <rect width="900" height="180" fill="url(#grid)"/>
+
+  <!-- subtle top accent line -->
+  <rect x="0" y="0" width="900" height="2" fill="#58A6FF" opacity="0.5"/>
+
+  <!-- decorative circuit lines left -->
+  <line x1="30" y1="50" x2="80" y2="50" stroke="#58A6FF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="80" y1="50" x2="80" y2="130" stroke="#58A6FF" stroke-width="0.8" opacity="0.25"/>
+  <circle cx="80" cy="130" r="3" fill="none" stroke="#58A6FF" stroke-width="0.8" opacity="0.35"/>
+  <circle cx="30" cy="50" r="2" fill="#58A6FF" opacity="0.4"/>
+  <line x1="20" y1="90" x2="55" y2="90" stroke="#a78bfa" stroke-width="0.6" opacity="0.2"/>
+  <circle cx="55" cy="90" r="2" fill="#a78bfa" opacity="0.3"/>
+
+  <!-- decorative circuit lines right -->
+  <line x1="870" y1="50" x2="820" y2="50" stroke="#58A6FF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="820" y1="50" x2="820" y2="130" stroke="#58A6FF" stroke-width="0.8" opacity="0.25"/>
+  <circle cx="820" cy="130" r="3" fill="none" stroke="#58A6FF" stroke-width="0.8" opacity="0.35"/>
+  <circle cx="870" cy="50" r="2" fill="#58A6FF" opacity="0.4"/>
+  <line x1="880" y1="90" x2="845" y2="90" stroke="#a78bfa" stroke-width="0.6" opacity="0.2"/>
+  <circle cx="845" cy="90" r="2" fill="#a78bfa" opacity="0.3"/>
+
+  <!-- corner brackets -->
+  <path d="M110,20 L130,20 L130,8 L118,8" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.4"/>
+  <path d="M790,20 L770,20 L770,8 L782,8" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.4"/>
+  <path d="M110,160 L130,160 L130,172 L118,172" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.4"/>
+  <path d="M790,160 L770,160 L770,172 L782,172" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.4"/>
+
+  <!-- name -->
+  <text
+    x="450" y="88"
+    text-anchor="middle"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="44"
+    font-weight="700"
+    letter-spacing="2"
+    fill="url(#nameGrad)"
+    filter="url(#glow)"
+  >Amarthya S. George</text>
+
+  <!-- thin divider -->
+  <line x1="310" y1="102" x2="590" y2="102" stroke="#58A6FF" stroke-width="0.6" opacity="0.4"/>
+
+  <!-- subtitle -->
+  <text
+    x="450" y="126"
+    text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="13"
+    letter-spacing="3"
+    fill="#8b949e"
+  >AI &amp; DATA SCIENCE  ·  CLOUD  ·  ML  ·  BLOCKCHAIN</text>
+
+  <!-- bottom accent line -->
+  <rect x="0" y="178" width="900" height="2" fill="#a78bfa" opacity="0.4"/>
+</svg>
