@@ -163,6 +163,6 @@
 
 <br/>
 
-`[ status: open to work · actively building · coffee-dependent ]`
+`[ status: open to work · actively building · Tea-dependent ]`
 
 </div>
