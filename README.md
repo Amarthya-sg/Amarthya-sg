@@ -17,7 +17,6 @@
 ```python
 {
   "name"       : "Amarthya S George",
-  "alias"      : "glaks",
   "role"       : "SWE Intern @ Mresult  |  Final-year B.E. (AI & DS), VTU '26",
   "location"   : "India 🇮🇳",
   "stack"      : ["GPT-4o", "Flask", "Python", "scikit-learn", "React"],
@@ -87,15 +86,15 @@
 
 <div align="center">
 
-| ⚡ | Project | What it does | Stack | Result |
-|---|---------|-------------|-------|--------|
-| 🛡️ | **[IntruSim](https://github.com/Amarthya-sg/IntruSim-Network-Intrusion-Simulation-Detection)** | Network intrusion detection & simulation | Python · sklearn · Pandas | **99.82% accuracy** |
-| 🧬 | **AMAE** | Network traffic classifier | Deep Learning · Python | **99.69% accuracy** |
-| 🔗 | **[MedChain](https://github.com/Amarthya-sg/Med-Chain)** | Decentralised medical records on-chain | Solidity · Hardhat · IPFS · React | LAN-deployed |
-| 🏥 | **[Health Assistant](https://github.com/Amarthya-sg/Health-Assistant)** | Diabetes · heart disease · Parkinson's predictor + chatbot | Flask · OpenAI · Jupyter | Multi-disease ML |
-| 🚨 | **[Disaster Relief Platform](https://github.com/Amarthya-sg/DISASTER-RELIEF-PLATFORM)** | Emergency coordination web app | HTML · CSS · JS | Full-stack web |
-| 💳 | **[Fraud Detection](https://github.com/Amarthya-sg/Credit-Card-Fraud-Detection-Model)** | Credit card fraud classifier on imbalanced data | Python · sklearn · SMOTE | Production-grade |
-| 📱 | **[MPVG](https://github.com/Amarthya-sg/MPVG)** | Personal Android mpv fork — battery % bridge from Kotlin → Lua via `script-message`, custom UI tweaks | Kotlin · Gradle · Lua | Built from source |
+| ⚡ | Project | What it does | Stack | Highlight |
+|---|---------|-------------|-------|-----------|
+| 🛡️ | **[IntruSim](https://github.com/Amarthya-sg/IntruSim-Network-Intrusion-Simulation-Detection)** | Network intrusion detection & simulation | Python · sklearn · Pandas | 99.82% detection accuracy |
+| 🧬 | **[Traffic Insight Engine](https://github.com/Amarthya-sg/Traffic-Insight-Engine)** | Network traffic classifier | Deep Learning · Python | Attention-based classification across VPN & non-VPN traffic |
+| 🔗 | **[MedChain](https://github.com/Amarthya-sg/Med-Chain)** | Decentralised medical records on-chain | Solidity · Hardhat · IPFS · React | IPFS-backed records with on-chain access control |
+| 🏥 | **[Health Assistant](https://github.com/Amarthya-sg/Health-Assistant)** | Diabetes · heart disease · Parkinson's predictor + chatbot | Flask · OpenAI · Jupyter | 3 disease models behind a single chat interface |
+| 🚨 | **[Disaster Relief Platform](https://github.com/Amarthya-sg/DISASTER-RELIEF-PLATFORM)** | Emergency coordination web app | HTML · CSS · JS | Real-time resource & volunteer coordination |
+| 💳 | **[Fraud Detection](https://github.com/Amarthya-sg/Credit-Card-Fraud-Detection-Model)** | Credit card fraud classifier on imbalanced data | Python · sklearn · SMOTE | SMOTE-balanced training on a 284K-transaction dataset |
+| 📱 | **[MPVG](https://github.com/Amarthya-sg/MPVG)** | Personal Android mpv fork — battery % bridge from Kotlin → Lua via `script-message`, custom UI tweaks | Kotlin · Gradle · Lua | Native Kotlin→Lua OSD bridge built from source |
 
 </div>
 
