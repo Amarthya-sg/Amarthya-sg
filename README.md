@@ -19,7 +19,7 @@
   "name"       : "Amarthya S George",
   "alias"      : "glaks",
   "role"       : "SWE Intern @ Mresult  |  Final-year B.E. (AI & DS), VTU '26",
-  "location"   : "Mangalore, India 🇮🇳",
+  "location"   : "India 🇮🇳",
   "stack"      : ["GPT-4o", "Flask", "Python", "scikit-learn", "React"],
   "currently"  : "Shipping multi-agent AI pipelines 🤖",
   "obsessions" : ["LLM agents", "distributed ML", "blockchain infra", "Fedora ricing"],
@@ -90,8 +90,8 @@
 | ⚡ | Project | What it does | Stack | Result |
 |---|---------|-------------|-------|--------|
 | 🛡️ | **[IntruSim](https://github.com/Amarthya-sg/IntruSim-Network-Intrusion-Simulation-Detection)** | Network intrusion detection & simulation | Python · sklearn · Pandas | **99.82% accuracy** |
-| 🧬 | **[AMAE](https://github.com/Amarthya-sg)** | Network traffic classifier | Deep Learning · Python | **99.69% accuracy** |
-| 🔗 | **MedChain** | Decentralised medical records on-chain | Solidity · Hardhat · IPFS · React | LAN-deployed |
+| 🧬 | **AMAE** | Network traffic classifier | Deep Learning · Python | **99.69% accuracy** |
+| 🔗 | **[MedChain](https://github.com/Amarthya-sg/Med-Chain)** | Decentralised medical records on-chain | Solidity · Hardhat · IPFS · React | LAN-deployed |
 | 🏥 | **[Health Assistant](https://github.com/Amarthya-sg/Health-Assistant)** | Diabetes · heart disease · Parkinson's predictor + chatbot | Flask · OpenAI · Jupyter | Multi-disease ML |
 | 🚨 | **[Disaster Relief Platform](https://github.com/Amarthya-sg/DISASTER-RELIEF-PLATFORM)** | Emergency coordination web app | HTML · CSS · JS | Full-stack web |
 | 💳 | **[Fraud Detection](https://github.com/Amarthya-sg/Credit-Card-Fraud-Detection-Model)** | Credit card fraud classifier on imbalanced data | Python · sklearn · SMOTE | Production-grade |
