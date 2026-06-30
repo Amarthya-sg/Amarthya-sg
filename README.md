@@ -4,7 +4,7 @@
 
 ### `AI & Data Science · Cloud · ML · Blockchain`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+multi-agent+AI+pipelines+☁️;Turning+raw+data+into+real+decisions+📊;99.82%25+IDS+accuracy+—+not+a+typo+🛡️;Fedora+enjoyer+%7C+Terminal+dweller+🐧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+multi-agent+AI+pipelines+☁️;Turning+raw+data+into+real+decisions+📊;Fedora+enjoyer+%7C+Terminal+dweller+🐧)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Amarthya-sg&style=flat-square&color=58A6FF&label=profile+views" />
 
