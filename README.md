@@ -19,7 +19,7 @@
   "name"       : "Amarthya S George",
   "role"       : "SWE Intern @ Mresult  |  Final-year B.E. (AI & DS), VTU '26",
   "location"   : "India 🇮🇳",
-  "stack"      : ["GPT-4o", "Flask", "Python", "scikit-learn", "React"],
+  "stack"      : ["Python", "Flask", "scikit-learn", "Docker"],
   "currently"  : "Shipping multi-agent AI pipelines 🤖",
   "obsessions" : ["LLM agents", "distributed ML", "blockchain infra", "Fedora ricing"],
   "fun_fact"   : "My terminal has Politoed on it. Non-negotiable. 🐸",
@@ -53,14 +53,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**── Blockchain ──**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 **── Data & BI ──**
 
@@ -90,7 +84,7 @@
 |---|---------|-------------|-------|-----------|
 | 🛡️ | **[IntruSim](https://github.com/Amarthya-sg/IntruSim-Network-Intrusion-Simulation-Detection)** | Network intrusion detection & simulation | Python · sklearn · Pandas | 99.82% detection accuracy |
 | 🧬 | **[Traffic Insight Engine](https://github.com/Amarthya-sg/Traffic-Insight-Engine)** | Network traffic classifier | Deep Learning · Python | Attention-based classification across VPN & non-VPN traffic |
-| 🔗 | **[MedChain](https://github.com/Amarthya-sg/Med-Chain)** | Decentralised medical records on-chain | Solidity · Hardhat · IPFS · React | IPFS-backed records with on-chain access control |
+| 🔗 | **[MedChain](https://github.com/Amarthya-sg/Med-Chain)** | Decentralised medical records on-chain | Solidity · Hardhat · IPFS | IPFS-backed records with on-chain access control |
 | 🏥 | **[Health Assistant](https://github.com/Amarthya-sg/Health-Assistant)** | Diabetes · heart disease · Parkinson's predictor + chatbot | Flask · OpenAI · Jupyter | 3 disease models behind a single chat interface |
 | 🚨 | **[Disaster Relief Platform](https://github.com/Amarthya-sg/DISASTER-RELIEF-PLATFORM)** | Emergency coordination web app | HTML · CSS · JS | Real-time resource & volunteer coordination |
 | 💳 | **[Fraud Detection](https://github.com/Amarthya-sg/Credit-Card-Fraud-Detection-Model)** | Credit card fraud classifier on imbalanced data | Python · sklearn · SMOTE | SMOTE-balanced training on a 284K-transaction dataset |
