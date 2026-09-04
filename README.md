@@ -2,7 +2,7 @@
 
 # Amarthya S. George
 
-### `AI & Data Science · ML · Blockchain`
+### `AI & Data Science · Machine Learning`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+pipelines;Turning+raw+data+into+real+decisions;Fedora+user+%C2%B7+terminal+dweller)](https://git.io/typing-svg)
 
@@ -27,7 +27,7 @@
   "education" : "B.E. Artificial Intelligence & Data Science, VTU '26",
   "location"  : "Mangaluru, India",
   "portfolio" : "https://amarthya.vercel.app/",
-  "focus"     : ["LLM agents", "multi-agent orchestration", "blockchain infra"],
+  "focus"     : ["LLM agents", "multi-agent orchestration", "applied ML"],
 }
 ```
 
@@ -42,7 +42,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **AI / ML**
@@ -52,11 +51,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Cloud & Backend**
+**Backend & Tools**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0066FF?style=flat-square&logo=microsoft&logoColor=white)
 
 **Data & BI**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -81,7 +78,6 @@
 |---|---|---|
 | **[IntruSim](https://github.com/Amarthya-sg/IntruSim-Network-Intrusion-Simulation-Detection)** | Network intrusion detection & simulation | Python · scikit-learn · Pandas |
 | **[Traffic Insight Engine](https://github.com/Amarthya-sg/Traffic-Insight-Engine)** | Attention-based deep learning network traffic classifier | Deep Learning · Python |
-| **[MedChain](https://github.com/Amarthya-sg/Med-Chain)** | Decentralized medical records — IPFS-backed with on-chain access control | Solidity · Hardhat · IPFS · React |
 | **[Health Assistant](https://github.com/Amarthya-sg/Health-Assistant)** | Diabetes, heart disease & Parkinson's predictor behind a single chat interface | Flask · OpenAI · Jupyter |
 | **[Disaster Relief Platform](https://github.com/Amarthya-sg/DISASTER-RELIEF-PLATFORM)** | Real-time emergency resource & volunteer coordination | HTML · CSS · JS |
 | **[Fraud Detection](https://github.com/Amarthya-sg/Credit-Card-Fraud-Detection-Model)** | Credit card fraud classifier on a 284K-transaction imbalanced dataset | Python · scikit-learn · SMOTE |
